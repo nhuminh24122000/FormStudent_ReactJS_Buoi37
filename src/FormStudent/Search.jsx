@@ -25,7 +25,7 @@ class Search extends Component {
                 <div className="w-75 d-flex mx-auto">
                     <input
                         className="form-control"
-                        placeholder="Nhập vào: mã sinh viên/họ tên có dấu/email/số điện thoại cần tìm"
+                        placeholder="Looking for..."
                         type="text"
                         name=""
                         id="search_bar"
